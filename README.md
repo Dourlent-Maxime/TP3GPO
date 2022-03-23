@@ -2,6 +2,6 @@
 
 --Membres de l'équipe--  
 
--Dourlent Maxime
--Léo Faletti
+-Dourlent Maxime  
+-Léo Faletti  
 -Esteban biret-Toscano
